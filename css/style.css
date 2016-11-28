@@ -4,3 +4,5 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+.item img{margin: 0 auto;
+text-align: center;}
